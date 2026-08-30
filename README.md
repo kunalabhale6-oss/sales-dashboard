@@ -1,5 +1,5 @@
 # sales-dashboard
-interactive Excel sales dashboard using ivot tables, charts , KPIs and slicers 
+interactive Excel sales dashboard using pivot tables, charts , KPIs and slicers 
 Sales Dashboard
 Interactive sales analysis dashboard built using Microsoft Excel.
 >Tools Used
